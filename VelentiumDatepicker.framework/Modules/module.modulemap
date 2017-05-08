@@ -1,0 +1,10 @@
+framework module VelentiumDatepicker {
+  umbrella header "VelentiumDatepicker.h"
+
+  export *
+  module * { export * }
+}
+
+module VelentiumDatepicker.Swift {
+    header "VelentiumDatepicker-Swift.h"
+}
